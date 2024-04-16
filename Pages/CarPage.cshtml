@@ -1,0 +1,15 @@
+﻿@page
+@model WebSite.Pages.CarPageModel
+@{
+    ViewData["Title"] = "Car";
+}
+<h1>@ViewData["Title"]</h1>
+
+<p>Cars!</p>
+
+@foreach (var car in Model.Cars)
+{
+    <h2>@car.Model</h2>
+    <img src="@car.Image" alt="@car.Model">
+    <p><b>@car.Company, @car.Year</b></p>
+}

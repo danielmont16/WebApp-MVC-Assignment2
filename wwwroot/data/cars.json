@@ -1,0 +1,44 @@
+﻿[
+  {
+    "Id": 1,
+    "Model": "Lamborghini Aventador",
+    "company": "Lamborghini",
+    "Year": 2020,
+    "Image": "https://cdn.pixabay.com/photo/2017/03/20/04/57/truck-2158284_1280.png"
+  },
+  {
+    "Id": 2,
+    "Model": "Ferrari 488 GTB",
+    "Company": "Ferrari",
+    "Year": 2019,
+    "Image": "https://cdn.pixabay.com/photo/2020/12/13/13/06/ferrari-488-gtb-5828180_1280.jpg"
+  },
+  {
+    "Id": 3,
+    "Model": "McLaren 720S",
+    "Company": "McLaren",
+    "Year": 2018,
+    "Image": "https://cdn.pixabay.com/photo/2018/08/15/06/44/mclaren-3607390_1280.jpg"
+  },
+  {
+    "Id": 4,
+    "Model": "Bugatti Chiron",
+    "Company": "Bugatti",
+    "Year": 2021,
+    "Image": "https://cdn.pixabay.com/photo/2018/03/04/16/27/car-3198456_1280.jpg"
+  },
+  {
+    "Id": 5,
+    "Model": "Porsche 911 GT2 RS",
+    "Company": "Porsche",
+    "Year": 2020,
+    "Image": "https://cdn.pixabay.com/photo/2020/12/01/18/06/porsche-911-gt2-5795129_1280.jpg"
+  },
+  {
+    "Id": 6,
+    "Model": "Aston Martin Valkyrie",
+    "Company": "Aston Martin",
+    "Year": 2022,
+    "Image": "https://cdn.pixabay.com/photo/2020/12/19/22/59/car-5845606_1280.jpg"
+  }
+]
